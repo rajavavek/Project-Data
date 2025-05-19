@@ -1,0 +1,5 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2503.08915-red)](https://arxiv.org/abs/2503.08915)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-blue)](https://github.com/your-repository)
+[![Web](https://img.shields.io/badge/Web-Website-grey)](https://yourwebsite.com)
+[![Demo](https://img.shields.io/badge/Demo-Demo-pink)](https://yourdemo.com)
+[![Open in Colab](https://img.shields.io/badge/Open_in_Colab-CO-orange)](https://colab.research.google.com/your-notebook)
